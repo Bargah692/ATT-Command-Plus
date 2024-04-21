@@ -50,6 +50,8 @@ player fling username
 trade atm withdrawl amount username 
 > Will withdrawl money from a user
 
+
+You can use this bot as a template as your own bot, or as it exists currently.
 player clear-inventory username
 > Will clear a user's entire inventory, outside of bags.
 
