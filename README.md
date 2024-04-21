@@ -38,14 +38,11 @@ player stun username duration
 player fling username
 > Will teleport a person high in the air
 
-wacky clear-inventory
-> Will delete a person's inventory
+trade atm withdrawl amount username 
+> Will withdrawl money from a user
 
-trade atm withdrawl
-> Will take money from a user
-
-player clear-inventory
+player clear-inventory username
 > Will clear a user's entire inventory, outside of bags.
 
-player curse
+player curse username
 > Will curse a player
