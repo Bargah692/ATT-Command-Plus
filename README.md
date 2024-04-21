@@ -15,7 +15,7 @@ Give the bot moderator permissions
 Enjoy!
 
 # Info
-This is a decently easy bot to use. You only need the tavern command runner to execute commands, unlike various other command bots like Zesty Bot that utilize a discord bot. 
+This is a decently easy bot to use. You only need the tavern command runner to execute commands, unlike various other command bots like Zesty Bot that utilize a discord bot. If you know how to use the base game commands, you will know how to use this bot.
 
 Join this discord for more info and such: https://discord.gg/jUk4NZEcw6
 
