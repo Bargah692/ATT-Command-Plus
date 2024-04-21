@@ -4,14 +4,23 @@ A Township Tale Bot That Adds Various New Commands
 
 # Getting Started:
 Make sure you have both Python and a script runner installed, like visual studio code or PyCharm
+
 Clone this repository
+
 Insure you have all the necessary dependencies that Py_Tale tells you to install.
+
 Request a bot token from Alta via the customer support email
+
 Fill in the bot credentials with your own
+
 Change things that need to be changed within the script, mainly the server ID.
+
 Run the script, if an error occurs DM @bargahh on Discord for help or to report a bug.
+
 Invite the bot you requested from Alta to the server you are adding the bot to
+
 Give the bot moderator permissions
+
 Enjoy!
 
 # Info
