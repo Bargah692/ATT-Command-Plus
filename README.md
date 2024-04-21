@@ -26,6 +26,8 @@ Enjoy!
 # Info
 This is a decently easy bot to use. You only need the tavern command runner to execute commands, unlike various other command bots like Zesty Bot that utilize a discord bot. If you know how to use the base game commands, you will know how to use this bot.
 
+You can use this bot as a template for your own bot, or as it exists currently.
+
 Join this discord for more info and such: https://discord.gg/jUk4NZEcw6
 
 # Current Commands!
@@ -50,8 +52,6 @@ player fling username
 trade atm withdrawl amount username 
 > Will withdrawl money from a user
 
-
-You can use this bot as a template as your own bot, or as it exists currently.
 player clear-inventory username
 > Will clear a user's entire inventory, outside of bags.
 
